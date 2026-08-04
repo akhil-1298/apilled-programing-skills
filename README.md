@@ -1,1 +1,16 @@
 # apilled-programing-skills
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0977-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0977-squares-of-a-sorted-array) |
+<!---LeetCode Topics End-->
