@@ -12,6 +12,7 @@
 | [0704-binary-search](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0977-squares-of-a-sorted-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akhil-1298/apilled-programing-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/akhil-1298/apilled-programing-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/akhil-1298/apilled-programing-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Two Pointers
@@ -98,6 +99,7 @@
 | [0496-next-greater-element-i](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akhil-1298/apilled-programing-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [0496-next-greater-element-i](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akhil-1298/apilled-programing-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
