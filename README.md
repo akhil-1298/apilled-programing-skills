@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akhil-1298/apilled-programing-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -101,6 +102,7 @@
 | [0155-min-stack](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akhil-1298/apilled-programing-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
