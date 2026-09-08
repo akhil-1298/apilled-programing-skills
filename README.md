@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0219-contains-duplicate-ii) |
@@ -69,6 +70,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
