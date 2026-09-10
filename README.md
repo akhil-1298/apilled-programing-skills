@@ -38,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0219-contains-duplicate-ii) |
@@ -46,6 +47,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
@@ -77,6 +79,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0344-reverse-string) |
