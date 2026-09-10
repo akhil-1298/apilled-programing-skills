@@ -77,6 +77,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/akhil-1298/apilled-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
